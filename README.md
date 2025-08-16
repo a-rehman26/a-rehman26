@@ -30,8 +30,8 @@ E-commerce Store: https://lnkd.in/d6_dZMkd
 ---
 
 ## 📬 Connect With Me  
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/abdulrehmanofficial26/))   
-- 📧 Email: **a.rehman.gujjar.321@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdulrehmanofficial26/)  
+- 📧 Email: **a.rehman.gujjar.321@gmail.com** 
 
 ---
 ⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
