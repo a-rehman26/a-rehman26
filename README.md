@@ -1,25 +1,26 @@
 👋 Hi, I'm Abdul Rehman
 
-💻 Full Stack Developer | React.js | PHP | Python | SQL | AI/ML
+💻 Full Stack Developer | PHP & Python Backend | React Frontend | AI/ML Explorer
 
-I’m a passionate developer who loves building scalable web applications, exploring AI/ML solutions, and crafting smooth user experiences.
+I’m a passionate engineer who builds scalable web applications, solves complex problems, and delivers seamless user experiences. I enjoy turning ideas into practical solutions using modern technologies — from backend systems to frontend interfaces — and exploring AI/ML for smarter applications.
 
 🚀 Tech Stack
-
-Frontend:
+🖥️ Frontend
 
 React.js | JavaScript (ES6+) | HTML5 | CSS3 | Bootstrap | Tailwind CSS
 
-Backend:
+⚙️ Backend
 
-PHP | Python (Flask/Django)
+PHP (Laravel) | Python (Flask/Django)
 
-Databases:
+🗄️ Databases
 
-MySQL | SQL Server | Firebase | MongoDB
+MySQL | MS SQL Server | Firebase | MongoDB
 
-Other Tools & Skills:
+🛠️ Tools & Skills
 
-Git & GitHub | REST APIs | AI/ML (TensorFlow, scikit-learn, Pandas, NumPy)
+Git & GitHub | Docker | REST APIs | Linux | Postman
 
-⭐️ “Turning ideas into code.”
+🤖 AI / Machine Learning
+
+Python | TensorFlow | scikit-learn | Pandas | NumPy
