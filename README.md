@@ -1,6 +1,6 @@
 # Abdul Rehman
 
-## Full Stack Developer | Frontend • Backend • DevOps | Exploring AI/ML
+## Full Stack Developer | React, PHP & Python | Exploring AI/ML
 
 I am a Full Stack Developer with experience in building scalable web applications and clean, maintainable user interfaces. I work across frontend, backend, and DevOps, focusing on performance, reliability, and best engineering practices. I am also exploring AI and Machine Learning to enhance modern applications.
 
@@ -44,13 +44,6 @@ I am a Full Stack Developer with experience in building scalable web application
 - Implement CI/CD pipelines
 - Monitor applications using Grafana and Prometheus
 - Continuously learn and apply modern technologies
-
----
-
-## Currently Learning
-- Advanced DevOps
-- System Design
-- AI and Machine Learning
 
 ---
 
