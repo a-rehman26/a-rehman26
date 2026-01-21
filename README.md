@@ -1,26 +1,59 @@
-👋 Hi, I'm Abdul Rehman
+# Abdul Rehman
 
-💻 Full Stack Developer | PHP & Python Backend | React Frontend | AI/ML Explorer
+## Full Stack Developer | Frontend • Backend • DevOps | Exploring AI/ML
 
-I’m a passionate engineer who builds scalable web applications, solves complex problems, and delivers seamless user experiences. I enjoy turning ideas into practical solutions using modern technologies — from backend systems to frontend interfaces — and exploring AI/ML for smarter applications.
+I am a Full Stack Developer with experience in building scalable web applications and clean, maintainable user interfaces. I work across frontend, backend, and DevOps, focusing on performance, reliability, and best engineering practices. I am also exploring AI and Machine Learning to enhance modern applications.
 
-🚀 Tech Stack
-🖥️ Frontend
+---
 
-React.js | JavaScript (ES6+) | HTML5 | CSS3 | Bootstrap | Tailwind CSS
+## Tech Stack
 
-⚙️ Backend
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
 
-PHP (Laravel) | Python (Flask/Django)
+### Backend
+- PHP
+- Python (Flask)
+- MERN Stack
 
-🗄️ Databases
+### Databases
+- SQL Databases
 
-MySQL | MS SQL Server | Firebase | MongoDB
+### Tools & DevOps
+- GitHub
+- Docker
+- CI/CD Pipelines
 
-🛠️ Tools & Skills
+### Monitoring
+- Grafana
+- Prometheus
 
-Git & GitHub | Docker | REST APIs | Linux | Postman
+### AI / Machine Learning
+- Exploring AI & Machine Learning
 
-🤖 AI / Machine Learning
+---
 
-Python | TensorFlow | scikit-learn | Pandas | NumPy
+## What I Do
+- Develop responsive and user-focused web applications
+- Build backend APIs and business logic
+- Design and work with relational databases
+- Containerize applications using Docker
+- Implement CI/CD pipelines
+- Monitor applications using Grafana and Prometheus
+- Continuously learn and apply modern technologies
+
+---
+
+## Currently Learning
+- Advanced DevOps
+- System Design
+- AI and Machine Learning
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/abdulrehmanofficial26/
