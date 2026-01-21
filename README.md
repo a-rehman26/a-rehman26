@@ -16,7 +16,7 @@ I am a Full Stack Developer with experience in building scalable web application
 
 ### Backend
 - PHP
-- Python (Flask)
+- Python (Flask, FastAPI)
 - MERN Stack
 
 ### Databases
