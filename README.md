@@ -2,7 +2,7 @@
 
 ## Full Stack Developer | React, PHP & Python | Exploring AI/ML
 
-I am a Full Stack Developer with experience in building scalable web applications and clean, maintainable user interfaces. I work across frontend, backend, and DevOps, focusing on performance, reliability, and best engineering practices. I am also exploring AI and Machine Learning to enhance modern applications.
+I am a Full Stack Developer with experience in building scalable web applications and clean, maintainable user interfaces. I work across frontend, backend, focusing on performance, reliability, and best engineering practices. I am also exploring AI and Machine Learning to enhance modern applications.
 
 ---
 
