@@ -7,10 +7,10 @@ A quick snapshot before the details:
 
 | | |
 |---|---|
-| 🛠️ **Building** | full-stack web apps, end to end |
-| 🧩 **Comfort zone** | React/Next.js frontends, PHP or Python backends |
-| 🔍 **Debugging style** | reproduce first, blame the code last |
-| 📈 **Right now** | figuring out where AI/ML actually helps inside normal apps |
+| 🛠️ **Focus** | full-stack web application development, end to end |
+| 🧩 **Core stack** | React/Next.js on the frontend, PHP or Python on the backend |
+| 🔍 **Approach** | root-cause analysis before remediation |
+| 📈 **Currently exploring** | practical integration of AI/ML into production web applications |
 
 <br>
 
@@ -41,10 +41,10 @@ I'd rather ship something that works today and refine it tomorrow than polish so
 
 <br>
 
-## What's On My Plate
+## Current Focus
 
-- Building projects that go the full distance — schema → API → UI → deployment, not just a demo
-- Learning to bring AI/ML out of notebooks and into apps people actually use
+- Delivering full-stack projects end to end — data schema, API design, UI implementation, and deployment
+- Researching how AI/ML capabilities can be integrated into everyday production applications
 
 <br>
 
