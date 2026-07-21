@@ -1,17 +1,17 @@
-<h1 align="center">Hi, I'm Abdul Rehman 👋</h1>
+<h1 align="center">Hi, I'm Abdul Rehman </h1>
 <h3 align="center">Full Stack Developer — React, PHP & Python | Exploring AI/ML</h3>
 
 <br>
 
 ```
-~/whoami
+~/about
 ```
 
 ```
-focus       full-stack web apps · REST APIs · containerized deployments
-depth       I read the error trace before I read the docs, and the schema before I touch the code
-philosophy  clean code first, working code always, clever code rarely
-currently   exploring AI/ML integrations inside real-world web apps
+role        full-stack dev — React on top, PHP or Python underneath
+mindset     ship it working, then make it clean, then make it fast
+habit       trace the bug before I trust the log, check the schema before I touch a query
+right now   wiring AI/ML pieces into normal web apps, not just notebooks
 ```
 
 <br>
